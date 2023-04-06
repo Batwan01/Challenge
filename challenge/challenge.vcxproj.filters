@@ -21,5 +21,8 @@
     <ClCompile Include="M2675.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="윤성우 문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
