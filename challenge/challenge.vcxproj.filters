@@ -24,5 +24,8 @@
     <ClCompile Include="윤성우 문제.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="for문 i이탈.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
