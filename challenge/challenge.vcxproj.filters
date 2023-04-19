@@ -30,5 +30,11 @@
     <ClCompile Include="Static.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="c.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="new.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
