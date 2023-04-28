@@ -10,7 +10,7 @@
     printf("%f %f", sum, sum1);
 }*/
 
- /*void main() {
+ void main() {
         int a, b = 2;
         for (a = 1; a < 3; a += 2) {
         KKK:
@@ -24,7 +24,7 @@
             }
         }
        printf("%d\n", a * b);
-  }*/
+  }
  
 //int main(void) {}
 //int main(void) {}
