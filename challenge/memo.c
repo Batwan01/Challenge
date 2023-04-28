@@ -10,7 +10,8 @@ int main(void) {
     printf("%f %f", sum, sum1);
 }
 
-//int main(void) {}
+//int main(void) {
+// }
 //int main(void) {}
 //int main(void) {}
 //int main(void) {}
