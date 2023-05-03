@@ -22,6 +22,7 @@
                     goto KKK;
                 }
             }
+            \
         }
        printf("%d\n", a * b);
   }*/
