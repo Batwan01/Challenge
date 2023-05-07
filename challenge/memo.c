@@ -22,12 +22,11 @@
                     goto KKK;
                 }
             }
-            \
         }
        printf("%d\n", a * b);
   }*/
  
-//int main(void) {}
+//int main(void) {g}
 //int main(void) {}
 //int main(void) {}
 //int main(void) {}
